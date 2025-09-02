@@ -20,13 +20,14 @@
   
 - ## 📌 Current Focus  
 - 🔍 Building **data-driven projects** (analysis + visualization)  
-- 🌐 Developing **full-stack web applications**  
+- 🌐 Developing **full-stack web applications**
+- [Leetcode Profile](https://leetcode.com/u/alphabet09/)
 
   ## 📈 GitHub Stats  
 ![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikram-0912&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-0912&layout=compact&theme=tokyonight) 
-![Leetcode Profile](https://leetcode.com/u/alphabet09/)
+ 
 
 ---
 
