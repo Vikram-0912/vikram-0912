@@ -27,7 +27,9 @@
 ![Vikram's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikram-0912&show_icons=true&theme=tokyonight)  
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vikram-0912&layout=compact&theme=tokyonight) 
- 
+ ![Visual Studio Code](https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Jupyter Notebook](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter)
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?style=for-the-badge&logo=powerbi)
 
 ---
 
