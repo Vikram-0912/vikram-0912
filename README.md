@@ -7,7 +7,7 @@
 
  ## 🌟 About Me  
 - 🔬 Strong foundation in **Structural Analysis, Design, and Project Management**  
-- 💡 Exploring **Data Analytics, Web Development, and AI-based projects**  
+- 💡 Exploring **Data Analytics,Data scientist, Web Development, and AI-based projects**  
 - 🛠️ Skilled in **AutoCAD, Revit, STAAD.Pro, React.js, Node.js, MongoDB, SQL**  
 - 📊 Currently learning **Data Analysis & Visualization (Python, Pandas, Power BI, SQL)**  
 - 🏆 Active in **sports & fitness**, balancing academics and athletics
@@ -44,7 +44,7 @@
 ## 📫 Connect with Me  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vikram-modasra)  
 - 📧 Email: **vikrammodasra145@gmail.com**  
-- 📂 [Portfolio/Website](#) *(coming soon!)*  
+- 📧 Email: **v.modasra@iitg.ac.in**  
 
 ---
 ✨ *"Learning never exhausts the mind, it only fuels growth."*  
